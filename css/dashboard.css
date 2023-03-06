@@ -1,0 +1,9 @@
+.table{
+    font-size: 18px;
+}
+
+@media (max-width:450px) {
+    .table{
+        font-size: 12px;
+    }    
+}
