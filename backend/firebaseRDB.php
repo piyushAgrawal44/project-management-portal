@@ -1,9 +1,4 @@
 <?php
-/*
- * class name: firebaseRDB
- * version: 1.0
- * author: Devisty
- */
 
 class firebaseRDB{
    function __construct($url=null) {
